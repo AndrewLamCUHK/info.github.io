@@ -1,7 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 *Sorted by first publication date.*
-
 
 ## Not Intended to Publish
 
