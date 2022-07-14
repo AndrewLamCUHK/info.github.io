@@ -7,12 +7,12 @@ author_profile: true
 
 ## Contact
 
-* Email: yjli [at] link [dot] cuhk [dot] edu [dot] hk
-* Email: ylilc [at] connect [dot] ust [dot] hk
+* Email: AndrewLin[at] link [dot] cuhk [dot] edu [dot] hk
+* WeChat: CUHK-Lam
 
 ## Skills
 
-* <b>Computer Languages:</b> C/C++, Python, Golang, LaTeX
-* <b>Languages:</b> Mandarin, English
-* <b>Platform:</b> Pytorch, Spark, Scikit-learn, NetworkX, DGL
-* <b>Interest:</b> Weiqi(Go, 5 dan)
+* <b>Computer Languages:</b> C/C++, Python, R, SQL, LaTeX
+* <b>Languages:</b> Mandarin (Native), English, Cantonese (Simple usage)
+* <b>Platform:</b> Pytorch, Tensorflow, Scikit-Learn, Kubernetes, Elastic-Search, Docker
+* <b>Interest:</b> Clarinet, Saxophone
