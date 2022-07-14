@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LI, Yujie"
+title                    : "LIN, Kuo"
 title_separator          : "-"
-name                     : &name "LI, Yujie"
+name                     : &name "LIN, Kuo"
 description              : &description "Academic personal website"
 url                      : https://andrewlamcuhk.github.io/info.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "LI, Yujie"
+  name             : "LIN, Kuo"
   avatar           : "111.jpg"
-  bio              : "Department of Sociology, The Chinese University of Hong Kong"
-  location         : "Shatin, HKSAR"
+  bio              : "Mininglamp Technology"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "ylilc@connect.ust.hk"
+  email            : "AndrewLin@link.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LeeRinji"
+  github           : "AndrewLamCUHK"
   google_plus      :
   keybase          :
   instagram        :
