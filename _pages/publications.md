@@ -11,5 +11,5 @@ author_profile: true
 <b>Intelligent retrieval optimization based on word perplexity calculation</b><br>
 <b>LIN Kuo.</b><br>
 
-<b>Post-query recommendation system based on word vector model</b><br>
+<b>Post-query recommendation system based on word embedding model</b><br>
 <b>LIN Kuo.</b><br>
