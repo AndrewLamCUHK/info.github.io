@@ -1,1 +1,1 @@
-Welcome to LI, Yujie's [homepage](http://yujie.li).
+Welcome to Lin Kuo's homepage
