@@ -6,6 +6,12 @@ author_profile: true
 ---
 *Sorted by first publication date.*
 
+## Working papers
+
+<b>Discourse changes of platform enterprises in the digital era</b><br>
+XIA Ying, YU Changrui, <b>LIN Kuo.</b><br>
+
+
 ## Not Intended to Publish
 
 <b>Design and Implementation of K-Nearest Neighbor Algorithm Based on Homomorphic Encryption</b><br>
