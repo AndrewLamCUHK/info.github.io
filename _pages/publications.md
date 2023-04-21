@@ -12,7 +12,7 @@ author_profile: true
 XIA Ying, YU Changrui, <b>LIN Kuo.</b><br>
 
 <b>Summarizing Topics Using Semantic Clustering Based on SimBERT</b><br>
-<b>LIN Kuo.</b>, XIA Ying<br>
+<b>LIN Kuo,</b> XIA Ying<br>
 
 
 ## Not Intended to Publish
