@@ -11,6 +11,9 @@ author_profile: true
 <b>Discourse changes of platform enterprises in the digital era</b><br>
 XIA Ying, YU Changrui, <b>LIN Kuo.</b><br>
 
+<b>Summarizing Topics Using Semantic Clustering Based on SimBERT</b><br>
+<b>LIN Kuo.</b><br>, XIA Ying
+
 
 ## Not Intended to Publish
 
