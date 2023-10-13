@@ -9,10 +9,18 @@ author_profile: true
 ## Working papers
 
 <b>Discourse changes of platform enterprises in the digital era</b><br>
-XIA Ying, YU Changrui, <b>LIN Kuo.</b><br>
+YU Changrui, <b>LIN Kuo.</b><br>, XIA Ying
 
 <b>Summarizing Topics Using Semantic Clustering Based on SimBERT</b><br>
-<b>LIN Kuo,</b> XIA Ying<br>
+<b>LIN Kuo</b>, LI Yujie<br>
+
+<b>Social Media in the Interaction Between State and Public</b><br>
+HE Danna, <b>LIN Kuo</b><br>
+
+<b>Measuring Media Slant Using Data of Newspaper</b><br>
+XIA Ying, LI Yujie, <b>LIN Kuo</b><br>
+
+
 
 
 ## Not Intended to Publish
