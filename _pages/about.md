@@ -16,5 +16,5 @@ redirect_from:
 * My research interests lie in the general area of Computational Social Science, Public Opinions, Social Networks. 
 * I worked as an Senior Algorithm Engineer in [Mininglamp Technology](https://www.mininglamp.com/) during 2021-2023. My field of work is mainly deep learning, Natural Language Processing and Large Language Model.
 * My name written in Chinese is *林阔*. You may call me *Andrew* in English or *Lam* in Cantonese.
-* I don't use social media like Twitter, Facebook, Weibo, even though I might have accidentally registered them before.
+* I don't use social media like Twitter, Facebook, Weibo, even though I might have accidentally registered them for research purpose before.
 
