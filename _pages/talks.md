@@ -6,4 +6,5 @@ author_profile: true
 ---
 
 
-No plans at present.
+Application of word perplexity calculation in Elasticsearch (Please Contact PI for Content)<br>
+Mininglamp Group Co.，Ltd, Beijing, Dec 2021
