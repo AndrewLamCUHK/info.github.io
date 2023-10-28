@@ -10,7 +10,7 @@ author_profile: true
 
 <b>An Introductory Handbook of Natural Language Processing for Social Science Research.</b><br>
 <b>LIN Kuo</b><br>
-*Not intended to publish, please Contact PI for PDF version
+*Not intended to publish, please Contact PI for PDF version<br>
 
 ## Working papers
 
