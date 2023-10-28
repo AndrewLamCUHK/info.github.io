@@ -6,6 +6,12 @@ author_profile: true
 ---
 *Sorted by first publication date.*
 
+## Books
+
+<b>An Introductory Handbook of Natural Language Processing for Social Science Research. (Not intended to publish)</b><br>
+<b>LIN Kuo</b><br>
+
+
 ## Working papers
 
 <b>Discourse changes of platform enterprises in the digital era</b><br>
