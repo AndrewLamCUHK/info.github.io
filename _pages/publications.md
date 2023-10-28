@@ -9,7 +9,7 @@ author_profile: true
 ## Working papers
 
 <b>Discourse changes of platform enterprises in the digital era</b><br>
-YU Changrui, <b>LIN Kuo.</b><br>, XIA Ying
+YU Changrui, <b>LIN Kuo</b>, XIA Ying*<br>
 
 <b>Summarizing Topics Using Semantic Clustering Based on SimBERT</b><br>
 <b>LIN Kuo</b>, LI Yujie<br>
