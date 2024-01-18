@@ -31,9 +31,11 @@ XIA Ying, LI Yujie, <b>LIN Kuo</b><br>
 
 ## Not Intended to Publish 
 <b>Social Media, A Challenge to traditional Israeli Propaganda Policy?</b><br>
-<b>LIN Kuo.</b><br>
+<b>LIN Kuo</b><br>
 <b>Education and fertility intention decline in China: An empirical study based on China General Social Survey</b><br>
-<b>LIN Kuo.</b><br>
+<b>LIN Kuo</b><br>
+<b>From Posts to the Streets: How Social Media Fosters Offline Protests</b><br>
+<b>LIN Kuo</b><br>
 
 
 ## Works in Computer Science (Not Intended to Publish)
