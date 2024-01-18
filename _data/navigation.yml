@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Talks"
     url: /talks/    
 
@@ -14,8 +17,5 @@ main:
 
   - title: "Resume"
     url: /resume/
-
-  - title: "Teaching"
-    url: /teaching/
 
     
