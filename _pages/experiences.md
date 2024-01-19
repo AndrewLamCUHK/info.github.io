@@ -13,7 +13,10 @@ author_profile: true
 * <b>Sun Yat-sen University</b>
     * B.Eng in Computer Science, School of Computer Science and Engineering, Sep 2016 - Jun 2020
     
-## Work
+## Employment
 * Senior Algorithm Engineer, Mininglamp Technology, Nov 2021 - Aug 2023
 * Intern, Mininglamp Technology, Jul 2021 - Nov 2021
 * Research Assistant (Part-time), School of Government, Sun yat-sen University
+
+## Fellowships and Awards
+* Dean’s List, School of Computer Science and Engineering, CUHK, Fall 2021
