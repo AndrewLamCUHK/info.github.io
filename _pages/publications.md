@@ -13,6 +13,9 @@ author_profile: true
 *Not intended to publish, please Contact PI for PDF version<br>
 
 ## Working papers
+<b>Understand Information Variation on Twitter during the Taiwan Election: A Multimodal Computational Framework</b><br>
+<b>LIN Kuo</b>, LI Yujie, QIN Xuanlong, QI Donghang, TAN Qiang<br>
+
 <b>Intergenerational Effects of Chinese SOE Reform</b><br>
 SONG Lin, ZHAO Danning, <b>LIN Kuo</b><br>
 
