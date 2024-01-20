@@ -33,6 +33,7 @@ YU Changrui, <b>LIN Kuo</b>, XIA Ying*<br>
 
 
 ## Not Intended to Publish 
+*Please Contact PI for PDF version<br>
 <b>Social Media, A Challenge to traditional Israeli Propaganda Policy?</b><br>
 <b>LIN Kuo</b><br>
 <b>Education and fertility intention decline in China: An empirical study based on China General Social Survey</b><br>
