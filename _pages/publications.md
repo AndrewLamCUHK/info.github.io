@@ -13,8 +13,8 @@ author_profile: true
 *Not intended to publish, please Contact PI for PDF version<br>
 
 ## Working papers
-<b>Who Care About Taiwan (Politics) in the Mainland: A Political-Psychology Study of the Social Media </b><br>
-HU Yue, HE Danna, <b>LIN Kuo</b><br>
+<b>Strait Watchers Behind the Screen: Psychological Drivers of Taiwan-Politics Discussions on Mainland Social Media </b><br>
+<b>LIN Kuo</b>,HU Yue, HE Danna (contributed equally) <br>
 
 <b>Understand Information Variation on Twitter during the Taiwan Election: A Multimodal Computational Framework</b><br>
 <b>LIN Kuo</b>, LI Yujie, QIN Xuanlong, QI Donghang, TAN Qiang<br>
