@@ -14,7 +14,7 @@ author_profile: true
 
 ## Working papers
 <b>Strait Watchers Behind the Screen: Psychological Drivers of Taiwan-Politics Discussions on Mainland Social Media </b><br>
-<b>LIN Kuo</b>,HU Yue, HE Danna (contributed equally) <br>
+<b>LIN Kuo</b>, HU Yue, HE Danna (contributed equally) <br>
 
 <b>Understand Information Variation on Twitter during the Taiwan Election: A Multimodal Computational Framework</b><br>
 <b>LIN Kuo</b>, LI Yujie, QIN Xuanlong, QI Donghang, TAN Qiang<br>
