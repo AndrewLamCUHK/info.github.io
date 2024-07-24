@@ -6,8 +6,8 @@ author_profile: true
 ---
 *Please Contact PI for Content*
 
-Strait Watchers Behind the Screen [LINK](https://www.drhuyue.site/slides_gh/slides/conference/languageTW.html#/title-slide)
-The 6th China Political Communication Research Forum
+Strait Watchers Behind the Screen [LINK](https://www.drhuyue.site/slides_gh/slides/conference/languageTW.html#/title-slide)<br>
+The 6th China Political Communication Research Forum<br>
 Shenzhen University, Shenzhen, May 2024<br>
 
 Government Hyper-Responsiveness<br>
