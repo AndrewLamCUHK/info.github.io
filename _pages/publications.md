@@ -13,14 +13,14 @@ author_profile: true
 *Not intended to publish, please Contact PI for PDF version<br>
 
 ## Working papers
+<b>The Rusted “Iron Rice Bowl”: Intergenerational Effects of Chinese SOE Reform on Educational Inequality</b><br>
+SONG Lin, ZHAO Danning, <b>LIN Kuo</b><br>
+
 <b>Personality and Quality of Online Political Discussions: A Psychological Analysis of Chinese Data </b><br>
 <b>LIN Kuo</b>, HU Yue, HE Danna (contributed equally) <br>
 
 <b>Understand Information Variation on Twitter during the Taiwan Election: A Multimodal Computational Framework</b><br>
 <b>LIN Kuo</b>, LI Yujie, QIN Xuanlong, QI Donghang, TAN Qiang<br>
-
-<b>The Rusted “Iron Rice Bowl”: Intergenerational Effects of Chinese SOE Reform on Educational Inequality</b><br>
-SONG Lin, ZHAO Danning, <b>LIN Kuo</b><br>
 
 <b>Authoritarian Responsiveness - How did Weibo users make the government lift the COVID ban in China? </b><br>
 HE Danna, <b>LIN Kuo</b>, TANG Wenfang<br>
