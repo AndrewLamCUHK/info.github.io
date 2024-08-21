@@ -6,6 +6,10 @@ author_profile: true
 ---
 *Please Contact PI for Content*
 
+The Rusted “Iron Rice Bowl”: Intergenerational Effects of Chinese SOE Reform on Educational Inequality <br>
+APSA Annual Meeting & Exhibition <br>
+Philadelphia, PA, Sep 2024<br>
+
 Strait Watchers Behind the Screen [LINK](https://www.drhuyue.site/slides_gh/slides/conference/languageTW.html#/title-slide)<br>
 The 6th China Political Communication Research Forum<br>
 Shenzhen University, Shenzhen, May 2024<br>
