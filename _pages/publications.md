@@ -6,11 +6,10 @@ author_profile: true
 ---
 *Sorted by first publication date.*
 
-## Books
+## Publications
+Research on the transformation of public discourse of Guangdong-Hong Kong-Macao Greater Bay Area Platform enterprises under the change of network governance policies
+XU Changrui, ZHANG Zhian, <b>LIN Kuo</b><br>
 
-<b>An Introductory Handbook of Natural Language Processing for Social Science Research.</b><br>
-<b>LIN Kuo</b><br>
-*Not intended to publish, please Contact PI for PDF version<br>
 
 ## Working papers
 <b>The Rusted “Iron Rice Bowl”: Intergenerational Effects of Chinese SOE Reform on Educational Inequality</b><br>
@@ -31,8 +30,7 @@ XIA Ying, LI Yujie, <b>LIN Kuo</b><br>
 <b>An Example in Post Bert Epoch: Application of Text Similarity and Clustering using SimBERT</b><br>
 <b>LIN Kuo</b>, LI Yujie<br>
 
-<b>Discourse changes of platform enterprises in the digital era</b><br>
-YU Changrui, <b>LIN Kuo</b>, XIA Ying*<br>
+
 
 
 ## Not Intended to Publish 
@@ -42,6 +40,11 @@ YU Changrui, <b>LIN Kuo</b>, XIA Ying*<br>
 <b>From Posts to the Streets: How Social Media Fosters Offline Protests</b><br>
 <b>LIN Kuo</b><br>
 
+## Books
+
+<b>An Introductory Handbook of Natural Language Processing for Social Science Research.</b><br>
+<b>LIN Kuo</b><br>
+*Not intended to publish, please Contact PI for PDF version<br>
 
 ## Works in Computer Science
 Design and Implementation of K-Nearest Neighbor Algorithm Based on Homomorphic Encryption<br>
