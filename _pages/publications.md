@@ -8,7 +8,7 @@ author_profile: true
 
 ## Publications
 <b>Research on the transformation of public discourse of Guangdong-Hong Kong-Macao Greater Bay Area Platform enterprises under the change of network governance policies</b><br>
-網絡治理政策變遷下粤港澳大灣區平台企業公共話語轉型研究，当代港澳研究，2024年第2期<br>
+網絡治理政策變遷下粤港澳大灣區平台企業公共話語轉型研究，當代港澳研究，2024年第2期<br>
 XU Changrui, ZHANG Zhian, <b>LIN Kuo</b><br>
 
 
