@@ -17,7 +17,7 @@ XU Changrui, ZHANG Zhian, <b>LIN Kuo</b><br>
 SONG Lin, <b>LIN Kuo</b>, ZHAO Danning*<br>
 
 <b>Personality and Quality of Online Political Discussions: A Psychological Analysis of Chinese Data </b><br>
-<b>LIN Kuo</b>, HU Yue, HE Danna (contributed equally) <br>
+HU Yue, HE Danna, <b>LIN Kuo</b> (contributed equally) <br>
 
 <b>Understand Information Variation on Twitter during the Taiwan Election: A Multimodal Computational Framework</b><br>
 <b>LIN Kuo</b>, LI Yujie, QIN Xuanlong, QI Donghang, TAN Qiang<br>
@@ -36,6 +36,11 @@ HE Danna, <b>LIN Kuo</b>, TANG Wenfang<br>
 *Not intended to publish, please Contact PI for PDF version<br>
 
 ### Works in Computer Science
-Design and Implementation of K-Nearest Neighbor Algorithm Based on Homomorphic Encryption<br>
-Intelligent retrieval optimization based on word perplexity calculation<br>
-Post-query recommendation system based on word embedding model<br>
+<b>Design and Implementation of K-Nearest Neighbor Algorithm Based on Homomorphic Encryption</b><br>
+Thesis, supervised by Prof. LU Wei at Sun Yat-sen University<br>
+
+<b>Intelligent retrieval optimization based on word perplexity calculation</b><br>
+Invention patent, at Mininglamp Technology
+
+<b>Post-query recommendation system based on word embedding model</b><br>
+Invention patent, at Mininglamp Technology
