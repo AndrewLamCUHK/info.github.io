@@ -28,7 +28,6 @@ HE Danna, <b>LIN Kuo</b>, TANG Wenfang<br>
 
 
 ## Not Intended to Publish 
-*Please Contact PI for PDF version<br>
 ### Books
 
 <b>An Introductory Handbook of Natural Language Processing for Social Science Research.</b><br>
