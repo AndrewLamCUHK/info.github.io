@@ -13,8 +13,8 @@ XU Changrui, ZHANG Zhian, <b>LIN Kuo</b><br>
 
 
 ## Working papers
-<b>The Rusted “Iron Rice Bowl”: Intergenerational Effects of Chinese SOE Reform on Educational Inequality</b><br>
-SONG Lin, <b>LIN Kuo</b>, ZHAO Danning*<br>
+<b>[The Rusted “Iron Rice Bowl”: Intergenerational Effects of Chinese SOE Reform on Educational Inequality](https://preprints.apsanet.org/engage/apsa/article-details/67091d3512ff75c3a12226cb)</b><br>
+SONG Lin, <b>LIN Kuo</b>, LIU Siyu, ZHAO Danning*<br>
 
 <b>Personality and Quality of Online Political Discussions: A Psychological Analysis of Chinese Data </b><br>
 HU Yue, HE Danna, <b>LIN Kuo</b> (contributed equally) <br>
