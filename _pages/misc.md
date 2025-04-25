@@ -7,7 +7,7 @@ author_profile: true
 
 ## Contact
 
-* Email: AndrewLin[at] link [dot] cuhk [dot] edu [dot] hk
+* Email: AndrewLin[at] link [dot] cuhk [dot] edu [dot] hk / Kuolin[at] link [dot] cuhk [dot] edu [dot] cn
 * WeChat: CUHK-Lam
 * Phone: (+86) 15865350975 / (+852) 6991 8836
 
