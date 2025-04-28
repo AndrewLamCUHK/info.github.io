@@ -24,8 +24,6 @@ HU Yue, HE Danna, <b>LIN Kuo</b> (contributed equally) <br>
 <b>Authoritarian Responsiveness - How did Weibo users make the government lift the COVID ban in China? </b><br>
 HE Danna, <b>LIN Kuo</b>, TANG Wenfang<br>
 
-<b>[The Rusted “Iron Rice Bowl”: Intergenerational Effects of Chinese SOE Reform on Educational Inequality](https://preprints.apsanet.org/engage/apsa/article-details/67091d3512ff75c3a12226cb)</b><br>
-SONG Lin, <b>LIN Kuo</b>, LIU Siyu, ZHAO Danning <br>
 
 ## Not Intended to Publish 
 ### Books
