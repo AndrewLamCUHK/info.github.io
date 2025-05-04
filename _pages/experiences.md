@@ -20,4 +20,12 @@ author_profile: true
 * Research Assistant (Part-time), School of Government, Sun yat-sen University
 
 ## Fellowships and Awards
+* Second Prize in Mininglamp Technology Hackathon Computer Science Competition (top 2), Mininglamp Technology, Spring 2023
 * Dean’s List, School of Computer Science and Engineering, CUHK, Fall 2021
+* Distinguished Academic Performance Scholarship, CUHK, Spring 2021
+* Honorable Mentioned in The Mathematical Contest in Modeling (MCM/ICM) of 2019
+* Second Prize in 2019 Sun Yat-sen University Computer Programming Competition (top 10% ), SYSU, 2019
+* Second Prize in 2018 Sun Yat-sen University Computer Programming Competition (top 10% ), SYSU, 2018
+* Second Prize in 2017 Sun Yat-sen University Computer Novice Programming Competition (top 12%), SYSU, 2017
+ 
+ 
