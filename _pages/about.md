@@ -17,4 +17,5 @@ redirect_from:
 * I worked as a Senior Algorithm Engineer in [Mininglamp Technology](https://www.mininglamp.com/) during 2021-2023. My field of work is mainly deep learning, Natural Language Processing and Large Language Model.
 * I’m a signed photographer with [Visual China Group (VCG)](https://www.vcg.com/), passionately capturing the harmony between nature’s grandeur and architectural elegance.
 * I don't use social media like Twitter, Facebook, Weibo, even though I might have accidentally registered them for research purpose before.
+* _In my philosophy, gratitude and respect constitute the foundation of humanity._
 
