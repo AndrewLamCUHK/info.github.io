@@ -13,11 +13,15 @@ author_profile: true
     * M.Sc in Computer Science, Department of Computer Science and Engineering, Sep 2020 - Nov 2021
 * <b>Sun Yat-sen University</b>
     * B.Eng in Computer Science, School of Computer Science and Engineering, Sep 2016 - Jun 2020
-    
+
+## Research Assistant
+* Research Assistant, School of Humanity and Social Science, The Chinese University of Hong Kong, Shenzhen
+* Research Assistant, School of Government, Sun yat-sen University
+
 ## Employment
 * Senior Algorithm Engineer, Mininglamp Technology, Nov 2021 - Aug 2023
 * Intern, Mininglamp Technology, Jul 2021 - Nov 2021
-* Research Assistant (Part-time), School of Government, Sun yat-sen University
+
 
 ## Fellowships and Awards
 * Second Prize in Mininglamp Technology Hackathon Computer Science Competition (top 2), Mininglamp Technology, Spring 2023
