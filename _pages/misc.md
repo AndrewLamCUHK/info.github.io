@@ -16,4 +16,4 @@ author_profile: true
 * <b>Computer Languages:</b> C/C++, Python, R, SQL, LaTeX
 * <b>Languages:</b> Mandarin (Native), English, Cantonese (Simple usage)
 * <b>Platform:</b> Pytorch, Tensorflow, Scikit-Learn, Kubernetes, Elastic-Search, Docker
-* <b>Interest:</b> Clarinet, Badminton
+* <b>Interest:</b> Clarinet, Badminton, Photography
