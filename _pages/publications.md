@@ -14,12 +14,12 @@ XU Changrui, ZHANG Zhian, <b>LIN Kuo</b><br>
 
 ## Working papers
 
+<b>Income and Subjective Social Class Perception (Book Chapter)</b><br>
+<b>LIN Kuo</b>
 
 <b>Personality and Quality of Online Political Discussions: A Psychological Analysis of Chinese Data </b><br>
 HU Yue, HE Danna, <b>LIN Kuo</b> (contributed equally) <br>
 
-<b>Understand Information Variation on Twitter during the Taiwan Election: A Multimodal Computational Framework</b><br>
-<b>LIN Kuo</b>, LI Yujie, QIN Xuanlong, QI Donghang, TAN Qiang<br>
 
 <b>Authoritarian Responsiveness - How did Weibo users make the government lift the COVID ban in China? </b><br>
 HE Danna, <b>LIN Kuo</b>, TANG Wenfang<br>
