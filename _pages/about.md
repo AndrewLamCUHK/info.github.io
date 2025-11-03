@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* I'm a third-year Ph.D student in the School of Humanities and Social Science of The Chinese University of Hong Kong, Shenzhen.
+* I'm a third-year Ph.D Candidate in the School of Humanities and Social Science of The Chinese University of Hong Kong, Shenzhen.
 * I'm very lucky to have Prof. [Tang Wenfang](https://hss.cuhk.edu.cn/teacher/742) be my supervisor.
 * I'm also very lucky to worked as research assistant under the supervise of Prof. [XIA Ying](https://sog.sysu.edu.cn/teacher/XiaYing) during 2021-2023.
 * My research interests lie in the general area of Computational Social Science and Public Opinions. 
