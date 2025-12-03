@@ -17,4 +17,5 @@ redirect_from:
 * I worked as a Senior Algorithm Engineer at [Mininglamp Technology](https://www.mininglamp.com/) during 2021-2023. My work focused mainly on deep learning, natural language processing, and Large Language models.
 * I’m a signed photographer with [Visual China Group (VCG)](https://www.vcg.com/), passionately capturing the harmony between nature’s grandeur and architectural elegance.
 * I don’t use social media such as Twitter, Facebook, or Weibo, although I may have registered accounts on these platforms before for research purposes.
+* [Here](https://andrewlamcuhk.github.io/) is my blog.
 
