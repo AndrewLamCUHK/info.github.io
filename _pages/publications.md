@@ -14,7 +14,9 @@ XU Changrui, ZHANG Zhian, <b>LIN Kuo</b><br>
 
 ## Working papers
 
-<b>Income and Subjective Social Class Perception (Book Chapter)</b><br>
+<b>Income and Social Class Perception in Contemporary China </b><br>
+Book chapter in New Era Social Governance<br>
+当代中国收入与社会阶层感知，图书章节，《新时代社会治理蓝皮书》<br>
 <b>LIN Kuo</b>
 
 <b>Personality and Quality of Online Political Discussions: A Psychological Analysis of Chinese Data </b><br>
