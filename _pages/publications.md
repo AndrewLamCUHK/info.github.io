@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 *Sorted by first publication date.*
+
 *\*Equal contribution. † Corresponding author*
 
 ## Publications
@@ -16,23 +17,23 @@ XU Changrui, ZHANG Zhian, <b>LIN Kuo</b><br>
 ## Working papers
 
 <b>From Broadcasting to Debating: Political Events and the Transformation of Online Discussion Structures</b><br>
-<b>Kuo Lin</b>, Xiangcheng Meng, and Yujie Li<br>
+<b>Kuo Lin\*</b>, Xiangcheng Meng\*, and Yujie Li†<br>
 
 
 
 
 <b>Preserving Structure, Pruning Content: A Structural Audit of Platform Governance in Online Discussion Trees</b><br>
-Tangying Chen, <b>Kuo Lin</b>, and Yujie Li<br>
+Tangying Chen, <b>Kuo Lin</b>, and Yujie Li†<br>
 
 
 
 
 <b>Two Paradigms for LLM-Based Public Opinion Imputation: Internal Conditioning and External Matching</b><br>
-<b>Kuo Lin</b>, Tangying Chen and Yujie Li<br>
+<b>Kuo Lin</b>, Tangying Chen and Yujie Li†<br>
 
 
 <b>Personality and Quality of Online Political Discussions: A Psychological Analysis of Chinese Data </b><br>
-Yue Hu, Danna He and <b>Kuo Lin</b> (contributed equally) <br>
+Yue Hu\*, Danna He\* and <b>Kuo Lin\*</b> <br>
 
 
 <b>Authoritarian Responsiveness - How did Weibo users make the government lift the COVID ban in China? </b><br>
