@@ -17,11 +17,11 @@ Before entering academia, I worked as a Senior Algorithm Engineer at [Mininglamp
 
 ### Research Areas
 
-*Computational Measurement and Public Opinion: I work on building and validating computational tools for measuring social and political attitudes at scale. A central thread in my current research asks whether large language models can credibly impute public opinion and reproduce meaningful variance across populations—and how these new methods stack up against conventional survey-based approaches.
+* Computational Measurement and Public Opinion: I work on building and validating computational tools for measuring social and political attitudes at scale. A central thread in my current research asks whether large language models can credibly impute public opinion and reproduce meaningful variance across populations—and how these new methods stack up against conventional survey-based approaches.
 
-*Online Political Expression and Government Responsiveness: I study how political events and digital environments shape the way citizens express themselves online. Some of my ongoing projects examine the structure of online conversations, how people talk to one another (and to governments), and how government responsiveness plays out in these digital exchanges.
+* Online Political Expression and Government Responsiveness: I study how political events and digital environments shape the way citizens express themselves online. Some of my ongoing projects examine the structure of online conversations, how people talk to one another (and to governments), and how government responsiveness plays out in these digital exchanges.
 
-*Political Psychology and Digital Behavior: I am interested in how psychological dispositions and identities shape political expression in online settings. My work in this area asks how individual-level psychological factors interact with digital environments to influence what citizens say, how they say it, and whom they engage with.
+* Political Psychology and Digital Behavior: I am interested in how psychological dispositions and identities shape political expression in online settings. My work in this area asks how individual-level psychological factors interact with digital environments to influence what citizens say, how they say it, and whom they engage with.
 
 ### Outside Work
 
