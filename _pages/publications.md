@@ -14,25 +14,38 @@ XU Changrui, ZHANG Zhian, <b>LIN Kuo</b><br>
 
 ## Working papers
 
+<b>From Broadcasting to Debating: Political Events and the Transformation of Online Discussion Structures</b><br>
+<b>Kuo Lin</b>, Xiangcheng Meng, and Yujie Li<br>
+
+
+
+
+<b>Preserving Structure, Pruning Content: A Structural Audit of Platform Governance in Online Discussion Trees</b><br>
+Tangying Chen, <b>Kuo Lin</b>, and Yujie Li<br>
+
+
+
+
+<b>Two Paradigms for LLM-Based Public Opinion Imputation: Internal Conditioning and External Matching</b><br>
+<b>Kuo Lin</b>, Tangying Chen and Yujie Li<br>
+
+
+<b>Personality and Quality of Online Political Discussions: A Psychological Analysis of Chinese Data </b><br>
+HU Yue, HE Danna and <b>LIN Kuo</b> (contributed equally) <br>
+
+
+<b>Authoritarian Responsiveness - How did Weibo users make the government lift the COVID ban in China? </b><br>
+HE Danna, <b>LIN Kuo</b> and TANG Wenfang<br>
+
+
+
+## Books
+
 <b>Income and Social Class Perception in Contemporary China </b><br>
 Book chapter in New Era Social Governance<br>
 当代中国收入与社会阶层感知，图书章节，《新时代社会治理蓝皮书》<br>
 <b>LIN Kuo</b>
 
-<b>Personality and Quality of Online Political Discussions: A Psychological Analysis of Chinese Data </b><br>
-HU Yue, HE Danna, <b>LIN Kuo</b> (contributed equally) <br>
-
-
-<b>Authoritarian Responsiveness - How did Weibo users make the government lift the COVID ban in China? </b><br>
-HE Danna, <b>LIN Kuo</b>, TANG Wenfang<br>
-
-
-## Not Intended to Publish 
-### Books
-
-<b>An Introductory Handbook of Natural Language Processing for Social Science Research.</b><br>
-<b>LIN Kuo</b><br>
-*Not intended to publish, please Contact PI for PDF version<br>
 
 ### Works in Computer Science
 <b>Design and Implementation of K-Nearest Neighbor Algorithm Based on Homomorphic Encryption</b><br>
