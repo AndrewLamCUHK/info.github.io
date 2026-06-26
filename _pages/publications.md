@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 *Sorted by first publication date.*
+*\*Equal contribution. † Corresponding author*
 
 ## Publications
 <b>Research on the transformation of public discourse of Guangdong-Hong Kong-Macao Greater Bay Area Platform enterprises under the change of network governance policies</b><br>
@@ -31,11 +32,11 @@ Tangying Chen, <b>Kuo Lin</b>, and Yujie Li<br>
 
 
 <b>Personality and Quality of Online Political Discussions: A Psychological Analysis of Chinese Data </b><br>
-HU Yue, HE Danna and <b>LIN Kuo</b> (contributed equally) <br>
+Yue Hu, Danna He and <b>Kuo Lin</b> (contributed equally) <br>
 
 
 <b>Authoritarian Responsiveness - How did Weibo users make the government lift the COVID ban in China? </b><br>
-HE Danna, <b>LIN Kuo</b> and TANG Wenfang<br>
+Danna He, <b>Kuo Lin</b> and Wenfang Tang<br>
 
 
 
