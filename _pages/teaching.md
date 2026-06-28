@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
+## Teaching Assistant
 
 * Teaching Assistant, HSS1009 Mathematics, The Chinese University of Hong Kong, Shenzhen, Fall 2023
 * Teaching Assistant, URB5040 Statistics for Social Science, The Chinese University of Hong Kong, Shenzhen, Fall 2023, Fall 2024
@@ -14,6 +14,7 @@ author_profile: true
 * Teaching Assistant, PUB5030 Methodology for Policy Analysis, The Chinese University of Hong Kong, Shenzhen, Fall 2024
 * Teaching Assistant, URB5220 Resource Evaluation and Planning, The Chinese University of Hong Kong, Shenzhen, Spring 2025
 * Teaching Assistant, HSS1011 Introduction to Social Science Research, The Chinese University of Hong Kong, Shenzhen, Fall 2025
+* Teaching Assistant, CEC1010 Current Situation and Policy, The Chinese University of Hong Kong, Shenzhen, Spring 2026
 
 
 
