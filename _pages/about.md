@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Ph.D. candidate in the School of Humanities and Social Science at The Chinese University of Hong Kong, Shenzhen, where I'm fortunate to work under the supervision of Prof. [Tang Wenfang](https://hss.cuhk.edu.cn/teacher/742). Prior to my doctoral studies, I spent two years (2021–2023) as a research assistant with Prof. [Xia Ying](https://sog.sysu.edu.cn/teacher/XiaYing), an experience that shaped much of how I think about research today.
+I'm a Ph.D. candidate in the School of Humanities and Social Science at The Chinese University of Hong Kong, Shenzhen, where I'm fortunate to work under the supervision of Prof. [Tang Wenfang](https://hss.cuhk.edu.cn/teacher/742). Prior to my doctoral studies, I spent two years (2021–2023) as a part-time research assistant with Prof. [Xia Ying](https://sog.sysu.edu.cn/teacher/XiaYing), an experience that shaped much of how I think about research today.
 
 My research is broadly concerned with computational social science, public opinion, and social epigenetics. I use computational methods, digital trace data, and large language models to study how social environments and digital platforms shape what people think, feel, and collectively respond to.
 
@@ -21,7 +21,7 @@ Before entering academia, I worked as a **Senior Algorithm Engineer** at [Mining
 
 * **Online Political Expression and Government Responsiveness:** I study how political events and digital environments shape the way citizens express themselves online. Some of my ongoing projects examine the structure of online conversations, how people talk to one another (and to governments), and how government responsiveness plays out in these digital exchanges.
 
-* **Political Psychology and Digital Behavior:** I am interested in how psychological dispositions and identities shape political expression in online settings. My work in this area asks how individual-level psychological factors interact with digital environments to influence what citizens say, how they say it, and whom they engage with.
+* **Political Psychology and Digital Behavior:** I study how dispositional traits—particularly the Big Five personality dimensions—shape the way citizens engage in online political discussions. My work examines how individual differences in personality influence not only what people say and how they say it, but also whom they engage with and the broader tenor of the conversations they help create. The central question driving this research is whether and how the psychological makeup of discussants cumulatively shapes the quality and civility of online political discourse.
 
 ## Outside Work
 
