@@ -4,8 +4,14 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-*Please Contact PI for Content*
 
+<b>Silicon Manifolds: A Life Course Framework for Survey Imputation and Cross-Item Extrapolation</b><br>
+Sustainable Development, Urban Transformation, and Ecological Security in the Asia-Pacific<br>
+The Chinese University of Hong Kong, Shenzhen, Shenzhen, June 2026<br>
+
+<b>Income and Social Class Perception in Contemporary China</b><br>
+New Era Social Governance Workshop<br>
+The Chinese University of Hong Kong, Shenzhen, Shenzhen, Jan 2026<br>
 
 <b>Strait Watchers Behind the Screen [LINK](https://www.drhuyue.site/slides_gh/slides/conference/languageTW.html#/title-slide)</b><br>
 The 6th China Political Communication Research Forum<br>
