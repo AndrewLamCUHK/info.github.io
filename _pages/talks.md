@@ -5,6 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+<b>How External Political Events Reshape the Interaction Structure of Online Political Discussions</b><br>
+The Third Computational Political Science Forum<br>
+Shanghai Jiao Tong University, Shanghai, July 2026<br>
+
+<b>LLM-Based Public Opinion Imputation: Two Paradigms for LLM-Based Public Opinion Imputation</b><br>
+The Third Computational Political Science Forum<br>
+Shanghai Jiao Tong University, Shanghai, July 2026<br>
+
 <b>Silicon Manifolds: A Life Course Framework for Survey Imputation and Cross-Item Extrapolation</b><br>
 Sustainable Development, Urban Transformation, and Ecological Security in the Asia-Pacific<br>
 The Chinese University of Hong Kong, Shenzhen, Shenzhen, June 2026<br>
