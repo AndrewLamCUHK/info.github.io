@@ -48,7 +48,7 @@ Book chapter in New Era Social Governance<br>
 当代中国收入与社会阶层感知，图书章节，《新时代社会治理蓝皮书》<br>
 <b>LIN Kuo</b>
 
-## Patent
+## Patents 
 
 <b>A Method and Apparatus for Ranking Search Results</b><br>
 一种文档的排序方法及装置<br>
