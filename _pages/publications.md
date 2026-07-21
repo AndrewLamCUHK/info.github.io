@@ -50,14 +50,13 @@ Book chapter in New Era Social Governance<br>
 
 ## Patent
 
-- **A Method and Apparatus for Sorting Documents**
-  - **Application No.:** CN202210303330.2
-  - **Publication No.:** CN114625859A
-  - **Grant No.:** CN114625859B
-  - **Inventor:** Lin Kuo
-  - **Applicant:** Beijing Minglue Zhaohui Technology Co., Ltd.
-  - **Granted:** June 5, 2026
-  - **IPC:** G06F16/332, G06F16/335, G06F16/36, G06F40/279, G06F40/30
+**A Method and Apparatus for Sorting Documents**
+**Application No.:** CN202210303330.2
+**Publication No.:** CN114625859A
+**Inventor:** Lin Kuo
+**Applicant:** Beijing Minglue Zhaohui Technology Co., Ltd.
+**Granted:** June 5, 2026
+
 
 ### Works in Computer Science
 <b>Design and Implementation of K-Nearest Neighbor Algorithm Based on Homomorphic Encryption</b><br>
