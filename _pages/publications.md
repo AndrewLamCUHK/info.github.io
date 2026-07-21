@@ -66,8 +66,3 @@ Book chapter in New Era Social Governance<br>
 
 
 
-### Works in Computer Science
-<b>Design and Implementation of K-Nearest Neighbor Algorithm Based on Homomorphic Encryption</b><br>
-Thesis, supervised by Prof. LU Wei at Sun Yat-sen University<br>
-
-
