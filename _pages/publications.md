@@ -41,20 +41,26 @@ Danna He, <b>Kuo Lin</b> and Wenfang Tang<br>
 
 
 
-## Books
+## Book Chapters
 
 <b>Income and Social Class Perception in Contemporary China </b><br>
 Book chapter in New Era Social Governance<br>
 当代中国收入与社会阶层感知，图书章节，《新时代社会治理蓝皮书》<br>
 <b>LIN Kuo</b>
 
+## Patent
+
+- **A Method and Apparatus for Sorting Documents**
+  - **Application No.:** CN202210303330.2
+  - **Publication No.:** CN114625859A
+  - **Grant No.:** CN114625859B
+  - **Inventor:** Lin Kuo
+  - **Applicant:** Beijing Minglue Zhaohui Technology Co., Ltd.
+  - **Granted:** June 5, 2026
+  - **IPC:** G06F16/332, G06F16/335, G06F16/36, G06F40/279, G06F40/30
 
 ### Works in Computer Science
 <b>Design and Implementation of K-Nearest Neighbor Algorithm Based on Homomorphic Encryption</b><br>
 Thesis, supervised by Prof. LU Wei at Sun Yat-sen University<br>
 
-<b>Intelligent retrieval optimization based on word perplexity calculation</b><br>
-Invention patent, at Mininglamp Technology
 
-<b>Post-query recommendation system based on word embedding model</b><br>
-Invention patent, at Mininglamp Technology
