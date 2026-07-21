@@ -57,7 +57,7 @@ Book chapter in New Era Social Governance<br>
 **Applicant:** Beijing Mininglamp Zhaohui Technology Co., Ltd.<br>
 **Status:** Granted, June 5, 2026<br>
 
-<b>A Method and Apparatus for Document Classification</b><br>
+<b>A Method, Apparatus, Electronic Device, and Storage Medium for Determining Recommended Vocabulary</b><br>
 
 **Publication No.:** CN114706970A<br>
 **Inventor:** Lin Kuo<br>
