@@ -51,12 +51,14 @@ Book chapter in New Era Social Governance<br>
 ## Patent
 
 <b>A Method and Apparatus for Sorting Documents</b><br>
+
 **Publication No.:** CN114625859A<br>
 **Inventor:** Lin Kuo<br>
 **Applicant:** Beijing Mininglamp Zhaohui Technology Co., Ltd.<br>
 **Status:** Granted, June 5, 2026<br>
 
 <b>A Method and Apparatus for Document Classification</b><br>
+
 **Publication No.:** CN114706970A<br>
 **Inventor:** Lin Kuo<br>
 **Applicant:** Beijing Mininglamp Zhaohui Technology Co., Ltd.<br>
