@@ -11,7 +11,7 @@ author_profile: true
 ## Publications
 <b>Research on the transformation of public discourse of Guangdong-Hong Kong-Macao Greater Bay Area Platform enterprises under the change of network governance policies</b><br>
 網絡治理政策變遷下粤港澳大灣區平台企業公共話語轉型研究，當代港澳研究，2024年第2期<br>
-XU Changrui, ZHANG Zhian, <b>LIN Kuo</b><br>
+Changrui Xu, Zhian Zhang, <b>Kuo Lin</b><br>
 
 
 ## Working papers
@@ -53,14 +53,14 @@ Book chapter in New Era Social Governance<br>
 <b>A Method and Apparatus for Ranking Search Results</b> [PDF](../MyOwnPdf/2022103033302.pdf) <br> 
 一种文档的排序方法及装置<br> 
 **Patent No.:** CN202210303330.2<br>
-**Inventor:** Lin Kuo<br>
+**Inventor:** Kuo Lin<br>
 **Applicant:** Beijing Mininglamp Zhaohui Technology Co., Ltd.<br>
 **Status:** Granted, June 5, 2026<br>
 
 <b>A Method, Apparatus, Electronic Device, and Storage Medium for Determining Search Query Suggestions</b> [PDF](../MyOwnPdf/2022103337952.pdf) <br> 
 一种确定推荐词汇的方法、装置、电子设备和存储介质<br>
 **Patent No.:** CN202210333795.2<br>
-**Inventor:** Lin Kuo<br>
+**Inventor:** Kuo Lin<br>
 **Applicant:** Beijing Mininglamp Zhaohui Technology Co., Ltd.<br>
 **Status:** Under Substantive Examination<br>
 
