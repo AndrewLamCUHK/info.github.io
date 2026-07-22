@@ -52,14 +52,14 @@ Book chapter in New Era Social Governance<br>
 
 <b>A Method and Apparatus for Ranking Search Results</b> [PDF](../MyOwnPdf/2022103033302.pdf) <br> 
 一种文档的排序方法及装置<br> 
-**Publication No.:** CN114625859A<br>
+**Patent No.:** CN202210303330.2<br>
 **Inventor:** Lin Kuo<br>
 **Applicant:** Beijing Mininglamp Zhaohui Technology Co., Ltd.<br>
 **Status:** Granted, June 5, 2026<br>
 
 <b>A Method, Apparatus, Electronic Device, and Storage Medium for Determining Search Query Suggestions</b> [PDF](../MyOwnPdf/2022103337952.pdf) <br> 
 一种确定推荐词汇的方法、装置、电子设备和存储介质<br>
-**Publication No.:** CN114706970A<br>
+**Patent No.:** CN202210333795.2<br>
 **Inventor:** Lin Kuo<br>
 **Applicant:** Beijing Mininglamp Zhaohui Technology Co., Ltd.<br>
 **Status:** Under Substantive Examination<br>
