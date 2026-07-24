@@ -54,15 +54,11 @@ Book chapter in New Era Social Governance<br>
 一种文档的排序方法及装置<br> 
 **Patent No.:** CN202210303330.2<br>
 **Inventor:** Kuo Lin<br>
-**Applicant:** Beijing Mininglamp Zhaohui Technology Co., Ltd.<br>
-**Status:** Granted, June 5, 2026<br>
+
 
 <b>A Method, Apparatus, Electronic Device, and Storage Medium for Determining Search Query Suggestions</b> [PDF](../MyOwnPdf/2022103337952.pdf) <br> 
 一种确定推荐词汇的方法、装置、电子设备和存储介质<br>
 **Patent No.:** CN202210333795.2<br>
 **Inventor:** Kuo Lin<br>
-**Applicant:** Beijing Mininglamp Zhaohui Technology Co., Ltd.<br>
-**Status:** Under Substantive Examination<br>
-
 
 
