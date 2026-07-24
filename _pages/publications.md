@@ -46,19 +46,17 @@ Danna He, <b>Kuo Lin</b> and Wenfang Tang<br>
 <b>Income and Social Class Perception in Contemporary China </b><br>
 Book chapter in New Era Social Governance<br>
 当代中国收入与社会阶层感知，图书章节，《新时代社会治理蓝皮书》<br>
-<b>LIN Kuo</b>
+<b>Kuo Lin</b><br>
 
 ## Patents 
 
-<b>A Method and Apparatus for Ranking Search Results</b> [PDF](../MyOwnPdf/2022103033302.pdf) <br> 
+<b>A Method and Apparatus for Ranking Search Results, CN202210303330.2</b> [PDF](../MyOwnPdf/2022103033302.pdf) <br> 
 一种文档的排序方法及装置<br> 
-**Patent No.:** CN202210303330.2<br>
-**Inventor:** Kuo Lin<br>
+<b>Kuo Lin</b><br>
 
 
-<b>A Method, Apparatus, Electronic Device, and Storage Medium for Determining Search Query Suggestions</b> [PDF](../MyOwnPdf/2022103337952.pdf) <br> 
+<b>A Method, Apparatus, Electronic Device, and Storage Medium for Determining Search Query Suggestions, CN202210333795.2</b> [PDF](../MyOwnPdf/2022103337952.pdf) <br> 
 一种确定推荐词汇的方法、装置、电子设备和存储介质<br>
-**Patent No.:** CN202210333795.2<br>
-**Inventor:** Kuo Lin<br>
+<b>Kuo Lin</b><br>
 
 
