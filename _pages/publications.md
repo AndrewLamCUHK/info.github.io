@@ -14,6 +14,13 @@ author_profile: true
 Changrui Xu, Zhian Zhang, <b>Kuo Lin</b><br>
 
 
+## Peer-Reviewed Conference Proceedings
+
+<b>How Weibo Reply NetworksReoriented Around Taiwan's 2024Election</b><br>
+<b>Kuo Lin\*</b>, Xiangcheng Meng\*, and Yujie Li†<br>
+/*Complex Networks*/<br>
+
+
 ## Working papers
 
 <b>From Broadcasting to Debating: Political Events and the Transformation of Online Discussion Structures</b><br>
