@@ -16,7 +16,7 @@ Changrui Xu, Zhian Zhang, <b>Kuo Lin</b><br>
 
 ## Peer-Reviewed Conference Proceedings
 
-<b>How Weibo Reply NetworksReoriented Around Taiwan's 2024Election</b><br>
+<b>How Weibo Reply Networks Reoriented Around Taiwan's 2024 Election</b><br>
 <b>Kuo Lin\*</b>, Xiangcheng Meng\*, and Yujie Li†<br>
 *Complex Networks 2026*<br>
 
