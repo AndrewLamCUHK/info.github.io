@@ -23,16 +23,16 @@ Changrui Xu, Zhian Zhang, <b>Kuo Lin</b><br>
 
 ## Working papers
 
+<b>Evidence Politics and Informal Accountability in Chinese Online Art Communities under Generative AI</b><br>
+Qiaoxin Yang, <b>Kuo Lin</b>, Yinuo Zhang, and Yujie Li<br>
+
+
+<b>Thankless Task: Social Critique and Unequal Recognition In Korean Hip-Hop</b><br>
+Yujie Li and <b>Kuo Lin</b><br>
+
+
 <b>From Broadcasting to Debating: Political Events and the Transformation of Online Discussion Structures</b><br>
 <b>Kuo Lin\*</b>, Xiangcheng Meng\*, and Yujie Li†<br>
-
-
-
-
-<b>Preserving Structure, Pruning Content: A Structural Audit of Platform Governance in Online Discussion Trees</b><br>
-Tangying Chen, <b>Kuo Lin</b>, and Yujie Li†<br>
-
-
 
 
 <b>Two Paradigms for LLM-Based Public Opinion Imputation: Internal Conditioning and External Matching</b><br>
